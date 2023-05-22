@@ -35,9 +35,7 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
-              de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+            Boa experiência com desenvolvimento de sites e banco de dados, busco sempre resolver tudo da forma mais ágil possível e sempre completa. Tenho experiência em React, HTML, CSS, JS, Express, PostgreSQL, Python, Django  e várias outras tecnologias desenvolvidas na Kenzie Academy Brasil. Tenho conhecimentos básicos de inglês.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
